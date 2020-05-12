@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+1、配置环境变量
+   桌面计算机右键-》属性——》高级系统设置-》环境变量
+   修改 找到path 双击。路径采用英文分号分割。win7系统
+   
+2、使用javac命令   神操作   直接定位cmd路径  方法  找到想找的路径，在地址栏中点击后输入cmd后回车，直接在dos命令中就定位到刚才的路径了
+* text=auto
